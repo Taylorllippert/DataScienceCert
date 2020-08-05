@@ -1,11 +1,11 @@
 #File: TaylorBrady-L03-DataCleaning.py
-#Description: 
+#Description: Removes or Replaces outliers and replaces non numeric values
 #Author: Taylor Brady
 #Date: 7/17/2020
 #Other comments: 
     
 # =============================================================================
-
+# non-numeric values and outliers should be removed or replaced to clean the dataset
 # =============================================================================
 
 import numpy as np
